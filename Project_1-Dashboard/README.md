@@ -110,4 +110,4 @@ IF(
 
 ## Conclusion
 
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from Excel for Data Analytics course, this dashboard allows me to make informed decisions about my next career path. Exploring the functionalities to understand how location and job type influence salaries. 
+I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from Luke Baruosse's Online Excel Certification Course, this dashboard allows me to make informed decisions about my next career path. Exploring the functionalities to understand how location and job type influence salaries. 
